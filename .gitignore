@@ -1,5 +1,8 @@
+.env/*
 *.pyc
 .coverage
 htmlcov
 .pytest_cache
 __pycache__
+match.rules
+.vscode
